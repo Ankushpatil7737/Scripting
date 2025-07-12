@@ -1,6 +1,2 @@
-echo "We are trying this practical from linux EC2"
-echo "I am from Young minds"
-echo "We are from batch-27 and learning DevOps"
-echo "I am working in REQ092348"
-echo "I have learnt Github and Git"
 echo "Hii I am Ankush Patil From Waghoda Bk Tal Raver Dist Jalgaon"
+echo "Hii I am Ankush Patil Task Doing in Ec2 Instants"
